@@ -3,11 +3,8 @@
 The purpose of this project is to:
 
 -Get & prepare the data:
-
     Load and explore the dataset referenced in section 4 in this document using techniques learnt during this course.
-
     Visualize the data and describe it thoroughly, identify correlations, etc.
-
     Clean, transform categorical data, and model the dataset using the techniques learnt throughout the course in
     preparation for building a predictive model.
     
