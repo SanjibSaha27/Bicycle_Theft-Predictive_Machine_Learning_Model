@@ -16,3 +16,7 @@ pandas, numpy, etc., to provide predictions as specified in project specificatio
 -Build an API for the model using the python Flask framework.
 
 -Build a simple front end to access the API and pass new feature values to the prediction model.
+
+## ⚠️ Usage Notice
+This project is for educational and portfolio purposes only.  
+Please do not copy or reuse this code without proper attribution.
